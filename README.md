@@ -1,1 +1,1 @@
-# image-to-text-converter
+# image to text converter by using machine learning
